@@ -5,4 +5,4 @@ Nesta branche, encontram-se presentes os arquivos auxiliares citados no apêndic
 - tabelas de dados mensurados em formato .html;
 - estimativa dos ângulos solares em formato .html;
 - estimativa da irradiância solar global no plano horizontal em formato .html;
-- código do sistema de coleta de dados e função de acesso à rede wifi em formato .py;
+- código do sistema de coleta de dados e função de acesso à rede wifi em formato .py.
