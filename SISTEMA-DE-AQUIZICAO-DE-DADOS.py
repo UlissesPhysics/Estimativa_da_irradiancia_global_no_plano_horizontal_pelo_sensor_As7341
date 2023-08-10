@@ -6,8 +6,8 @@
 # Módulos/Bibliotecas/Drivers
 import sys
 import json
-import redeWifi        # Cria do pelo autor, funciona como uma função para acessar uma rede wifi
-                       # e exibir o ip de acessor no display oled.
+import redeWifi        # Criado pelo autor, função para acessar uma rede wifi
+                       # e exibir o ip de acesso no display oled.
 import ssd1306
 import urequests
 import utime
@@ -15,7 +15,7 @@ import os
 from microWebSrv import MicroWebSrv
 from machine import I2C, Pin, SoftI2C, RTC
 from time import sleep_ms
-from as7341 import *   # Funciona em com as7341_smux_select.py
+from as7341 import *   # Funciona em conjunto com as7341_smux_select.py
 
 
 # Definições
@@ -222,7 +222,7 @@ try:
 
         
 
-        if cont_medicao==5:      # o valor define o tamanho do ciclo de medição
+        if cont_medicao==30:      # o valor define o tamanho do ciclo de medição
 
 #Armazenamento FIFO
             
