@@ -4,3 +4,5 @@ Este trabalho tem relação com a geração de energia elétrica a partir da irr
 - a avaliação do sensor As7341 quanto a sensibilidade,  direcionalidade e características do difusor; 
 - a coleta de dados para a estimativa da irradiância solar global horizontal;
 - a estimativa da irradiância solar global horizontal a partir dos dados mensurados pela estação de coleta e dos dados coletados pelos solarímetro.
+
+Obs: para visualizar a informações de forma mais clara dos arquivos em formado .html, é nacessário baixá-los em abrí-los em algum Browzer.
